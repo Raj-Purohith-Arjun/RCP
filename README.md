@@ -132,26 +132,8 @@ Launch:
 streamlit run app.py
 ```
 
----
 
-## 📂 Repository Structure
 
-```
-├── data/
-│   ├── ILIDataV2.xlsx
-│
-├── notebooks/
-│   ├── Phase1_Alignment.ipynb
-│   ├── Phase2_Matching.ipynb
-│   ├── Phase3_Clustering.ipynb
-│
-├── app.py                     # Streamlit dashboard
-├── Final_Submission_Expert.csv
-├── Final_Submission_With_Clusters.csv
-├── README.md
-```
-
----
 
 ## 🧪 Technologies Used
 
