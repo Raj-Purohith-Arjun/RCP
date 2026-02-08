@@ -189,9 +189,10 @@ It mirrors how **commercial integrity platforms** operate — with transparency,
 ## 👤 Author
 
 **Raj Purohith Arjun**
+
 **Venkateswarlu N**
 MS Data Science — Texas A&M University
-Focus: Applied ML, Industrial AI, Infrastructure Safety
+
 
 ---
 
