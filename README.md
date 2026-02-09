@@ -166,15 +166,6 @@ This project moves beyond academic matching and delivers:
 
 It mirrors how **commercial integrity platforms** operate — with transparency, uncertainty handling, and risk prioritization.
 
----
-
-## 👤 Author
-
-**Raj Purohith Arjun**
-
-**Venkateswarlu N**
-MS Data Science — Texas A&M University
-
 
 ---
 
